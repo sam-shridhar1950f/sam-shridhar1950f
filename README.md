@@ -1,2 +1,5 @@
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-shridhar1950f&theme=graywhite&show_icons=true)
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-shridhar1950f&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=sam-shridhar1950f&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-shridhar1950f&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
