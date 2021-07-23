@@ -17,7 +17,7 @@
 
 <br/><br/><br/><br/><br/><br/>
 
- <a align="right" href="https://github.com/sam-shridhar1950f/" title="orbit-py"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sam-shridhar1950f&repo=orbit-py&theme=react&border_color=61dafb&border_radius=10"></a>
+ <a align="left" href="https://github.com/sam-shridhar1950f/orbit-py" title="orbit-py"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sam-shridhar1950f&repo=orbit-py&theme=react&border_color=61dafb&border_radius=10"></a>
  
  <a align="right" href="https://github.com/hackgwinnett/hackgwinnett.github.io" title="hackgwinnett.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hackgwinnett&repo=hackgwinnett.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
 
